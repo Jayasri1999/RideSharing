@@ -1,11 +1,11 @@
 # RideSharing
 Ride Sharing System that enables users to manage drivers, request rides, and calculate fares based on location and distance. The system is built using Java, Spring Boot, and incorporates basic RESTful API principles.
 1. Clone the repository
-   git clone https://github.com/your-username/RideSharing.git
+   git clone https://github.com/Jayasri1999/RideSharing.git
    cd RideSharing/Ride
-2. Build the Project
+3. Build the Project
    mvn clean install
-3. Run the application
+4. Run the application
    mvn spring-boot:run
 
 **EndPoints**
